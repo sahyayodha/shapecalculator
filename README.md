@@ -1,4 +1,4 @@
 # Shape Calculator
-# BY : Neoza
+# By : Neoza
 # Discord : Neoza#3526 
 # Telegram : @yodhakun
